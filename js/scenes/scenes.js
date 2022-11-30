@@ -23,6 +23,7 @@ export default () => {
          { name: "DemoRayTrace"   , path: "./demoRayTrace.js"   },
          { name: "DemoZoom"       , path: "./demoZoom.js"       },
          { name: "DemoDesktopHand", path: "./demoDesktopHand.js"},
+         { name: "DemoPranav", path: "./demoPranav.js"},
       ]
    };
 }
